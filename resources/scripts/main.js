@@ -37,5 +37,5 @@ var move = function(){
 }
 
 var YesBtn = function(){
-	alert("Anh biết mà! 😘");
+	alert("Vậy là đồng ý rồi nha! 😘");
 }
